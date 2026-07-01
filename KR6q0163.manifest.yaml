@@ -1,0 +1,1931 @@
+canonical_identifier: bkk:krp/KR6q0163/v1
+canonical_location: https://kanripo.org/bkk/KR6q0163/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 普明禪師牧牛圖頌
+  identifiers:
+    alt_id:
+    - J23nB128
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/J/J23/J23nB128.xml
+    old_id: J23nB128
+  edition:
+    short: bkk
+editions:
+- short: 嘉興
+  label: 嘉興
+  source_xml_id: wit.orig
+- short: J
+assets:
+  parts:
+  - {seq: 1, filename: KR6q0163_001.yaml, hash: 'sha256:6ef539dfd7a12fea95a6d9f157f4e99555ee93108efdb2f278f44c4ba8493f71'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6q0163_001.markers.yaml, hash: 'sha256:15839d5afac0dbfe1977288c625bbc30acf95d7e1e8e75066929127ff5b87432'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-juan-start
+    span:
+    - body
+    - 0
+    - 5991
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-2
+    span:
+    - body
+    - 228
+    - 228
+  label: 目錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-3
+    span:
+    - body
+    - 437
+    - 437
+  label: 普明禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-4
+    span:
+    - body
+    - 437
+    - 437
+  label: 未牧
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-5
+    span:
+    - body
+    - 476
+    - 476
+  label: 初調
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-6
+    span:
+    - body
+    - 515
+    - 515
+  label: 受制
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-7
+    span:
+    - body
+    - 554
+    - 554
+  label: 迴首
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-8
+    span:
+    - body
+    - 593
+    - 593
+  label: 馴伏
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-9
+    span:
+    - body
+    - 632
+    - 632
+  label: 無礙
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-10
+    span:
+    - body
+    - 671
+    - 671
+  label: 任運
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-11
+    span:
+    - body
+    - 710
+    - 710
+  label: 相忘
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-12
+    span:
+    - body
+    - 749
+    - 749
+  label: 獨照
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-13
+    span:
+    - body
+    - 788
+    - 788
+  label: 雙泯
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-14
+    span:
+    - body
+    - 831
+    - 831
+  label: 聞谷大師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-15
+    span:
+    - body
+    - 847
+    - 847
+  label: 未牧
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-16
+    span:
+    - body
+    - 877
+    - 877
+  label: 初調
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-17
+    span:
+    - body
+    - 907
+    - 907
+  label: 受制
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-18
+    span:
+    - body
+    - 937
+    - 937
+  label: 迴首
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-19
+    span:
+    - body
+    - 967
+    - 967
+  label: 馴伏
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-20
+    span:
+    - body
+    - 997
+    - 997
+  label: 無礙
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-21
+    span:
+    - body
+    - 1027
+    - 1027
+  label: 任運
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-22
+    span:
+    - body
+    - 1057
+    - 1057
+  label: 相忘
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-23
+    span:
+    - body
+    - 1087
+    - 1087
+  label: 獨照
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-24
+    span:
+    - body
+    - 1117
+    - 1117
+  label: 雙泯
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-25
+    span:
+    - body
+    - 1150
+    - 1150
+  label: 天隱禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-26
+    span:
+    - body
+    - 1166
+    - 1166
+  label: 未牧
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-27
+    span:
+    - body
+    - 1196
+    - 1196
+  label: 初調
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-28
+    span:
+    - body
+    - 1226
+    - 1226
+  label: 受制
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-29
+    span:
+    - body
+    - 1256
+    - 1256
+  label: 回首
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-30
+    span:
+    - body
+    - 1286
+    - 1286
+  label: 馴伏
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-31
+    span:
+    - body
+    - 1316
+    - 1316
+  label: 無礙
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-32
+    span:
+    - body
+    - 1346
+    - 1346
+  label: 任運
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-33
+    span:
+    - body
+    - 1376
+    - 1376
+  label: 相忘
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-34
+    span:
+    - body
+    - 1406
+    - 1406
+  label: 獨照
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-35
+    span:
+    - body
+    - 1436
+    - 1436
+  label: 雙泯
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-36
+    span:
+    - body
+    - 1469
+    - 1469
+  label: 破山禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-37
+    span:
+    - body
+    - 1489
+    - 1489
+  label: 未牧
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-38
+    span:
+    - body
+    - 1519
+    - 1519
+  label: 初調
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-39
+    span:
+    - body
+    - 1549
+    - 1549
+  label: 受制
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-40
+    span:
+    - body
+    - 1579
+    - 1579
+  label: 回首
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-41
+    span:
+    - body
+    - 1609
+    - 1609
+  label: 馴伏
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-42
+    span:
+    - body
+    - 1639
+    - 1639
+  label: 無礙
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-43
+    span:
+    - body
+    - 1669
+    - 1669
+  label: 任運
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-44
+    span:
+    - body
+    - 1699
+    - 1699
+  label: 相忘
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-45
+    span:
+    - body
+    - 1729
+    - 1729
+  label: 獨照
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-46
+    span:
+    - body
+    - 1759
+    - 1759
+  label: 雙泯
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-47
+    span:
+    - body
+    - 1794
+    - 1794
+  label: 萬如禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-48
+    span:
+    - body
+    - 1807
+    - 1807
+  label: 未牧
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-49
+    span:
+    - body
+    - 1837
+    - 1837
+  label: 初調
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-50
+    span:
+    - body
+    - 1867
+    - 1867
+  label: 受制
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-51
+    span:
+    - body
+    - 1897
+    - 1897
+  label: 迴首
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-52
+    span:
+    - body
+    - 1927
+    - 1927
+  label: 馴伏
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-53
+    span:
+    - body
+    - 1957
+    - 1957
+  label: 無礙
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-54
+    span:
+    - body
+    - 1987
+    - 1987
+  label: 任運
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-55
+    span:
+    - body
+    - 2017
+    - 2017
+  label: 相忘
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-56
+    span:
+    - body
+    - 2047
+    - 2047
+  label: 獨照
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-57
+    span:
+    - body
+    - 2077
+    - 2077
+  label: 雙泯
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-58
+    span:
+    - body
+    - 2110
+    - 2110
+  label: 浮石禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-59
+    span:
+    - body
+    - 2125
+    - 2125
+  label: 未牧
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-60
+    span:
+    - body
+    - 2155
+    - 2155
+  label: 初調
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-61
+    span:
+    - body
+    - 2185
+    - 2185
+  label: 受制
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-62
+    span:
+    - body
+    - 2215
+    - 2215
+  label: 回首
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-63
+    span:
+    - body
+    - 2245
+    - 2245
+  label: 馴伏
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-64
+    span:
+    - body
+    - 2274
+    - 2274
+  label: 無礙
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-65
+    span:
+    - body
+    - 2304
+    - 2304
+  label: 任運
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-66
+    span:
+    - body
+    - 2334
+    - 2334
+  label: 相忘
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-67
+    span:
+    - body
+    - 2364
+    - 2364
+  label: 獨照
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-68
+    span:
+    - body
+    - 2394
+    - 2394
+  label: 雙泯
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-69
+    span:
+    - body
+    - 2427
+    - 2427
+  label: 玉林禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-70
+    span:
+    - body
+    - 2444
+    - 2444
+  label: 未牧
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-71
+    span:
+    - body
+    - 2474
+    - 2474
+  label: 初調
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-72
+    span:
+    - body
+    - 2504
+    - 2504
+  label: 受制
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-73
+    span:
+    - body
+    - 2534
+    - 2534
+  label: 回首
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-74
+    span:
+    - body
+    - 2564
+    - 2564
+  label: 馴伏
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-75
+    span:
+    - body
+    - 2594
+    - 2594
+  label: 無礙
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-76
+    span:
+    - body
+    - 2624
+    - 2624
+  label: 任運
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-77
+    span:
+    - body
+    - 2654
+    - 2654
+  label: 相忘
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-78
+    span:
+    - body
+    - 2684
+    - 2684
+  label: 獨照
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-79
+    span:
+    - body
+    - 2714
+    - 2714
+  label: 雙泯
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-80
+    span:
+    - body
+    - 2747
+    - 2747
+  label: 箬菴禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-81
+    span:
+    - body
+    - 2760
+    - 2760
+  label: 未牧
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-82
+    span:
+    - body
+    - 2790
+    - 2790
+  label: 初調
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-83
+    span:
+    - body
+    - 2820
+    - 2820
+  label: 受制
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-84
+    span:
+    - body
+    - 2850
+    - 2850
+  label: 回首
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-85
+    span:
+    - body
+    - 2880
+    - 2880
+  label: 馴伏
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-86
+    span:
+    - body
+    - 2910
+    - 2910
+  label: 無礙
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-87
+    span:
+    - body
+    - 2940
+    - 2940
+  label: 任運
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-88
+    span:
+    - body
+    - 2970
+    - 2970
+  label: 相忘
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-89
+    span:
+    - body
+    - 3000
+    - 3000
+  label: 獨照
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-90
+    span:
+    - body
+    - 3030
+    - 3030
+  label: 雙泯
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-91
+    span:
+    - body
+    - 3063
+    - 3063
+  label: 山茨禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-92
+    span:
+    - body
+    - 3076
+    - 3076
+  label: 未牧
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-93
+    span:
+    - body
+    - 3106
+    - 3106
+  label: 初調
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-94
+    span:
+    - body
+    - 3136
+    - 3136
+  label: 受制
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-95
+    span:
+    - body
+    - 3166
+    - 3166
+  label: 回首
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-96
+    span:
+    - body
+    - 3196
+    - 3196
+  label: 馴伏
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-97
+    span:
+    - body
+    - 3226
+    - 3226
+  label: 無礙
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-98
+    span:
+    - body
+    - 3256
+    - 3256
+  label: 任運
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-99
+    span:
+    - body
+    - 3286
+    - 3286
+  label: 相忘
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-100
+    span:
+    - body
+    - 3316
+    - 3316
+  label: 獨照
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-101
+    span:
+    - body
+    - 3346
+    - 3346
+  label: 雙泯
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-102
+    span:
+    - body
+    - 3379
+    - 3379
+  label: 玄微禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-103
+    span:
+    - body
+    - 3396
+    - 3396
+  label: 未牧
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-104
+    span:
+    - body
+    - 3426
+    - 3426
+  label: 初調
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-105
+    span:
+    - body
+    - 3456
+    - 3456
+  label: 受制
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-106
+    span:
+    - body
+    - 3486
+    - 3486
+  label: 迴首
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-107
+    span:
+    - body
+    - 3516
+    - 3516
+  label: 馴伏
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-108
+    span:
+    - body
+    - 3546
+    - 3546
+  label: 無礙
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-109
+    span:
+    - body
+    - 3575
+    - 3575
+  label: 任運
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-110
+    span:
+    - body
+    - 3605
+    - 3605
+  label: 相忘
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-111
+    span:
+    - body
+    - 3635
+    - 3635
+  label: 獨照
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-112
+    span:
+    - body
+    - 3665
+    - 3665
+  label: 雙泯
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-113
+    span:
+    - body
+    - 3698
+    - 3698
+  label: 香幢法主
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-114
+    span:
+    - body
+    - 3715
+    - 3715
+  label: 未牧
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-115
+    span:
+    - body
+    - 3745
+    - 3745
+  label: 初調
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-116
+    span:
+    - body
+    - 3775
+    - 3775
+  label: 受制
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-117
+    span:
+    - body
+    - 3805
+    - 3805
+  label: 回首
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-118
+    span:
+    - body
+    - 3835
+    - 3835
+  label: 馴伏
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-119
+    span:
+    - body
+    - 3865
+    - 3865
+  label: 無礙
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-120
+    span:
+    - body
+    - 3895
+    - 3895
+  label: 任運
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-121
+    span:
+    - body
+    - 3925
+    - 3925
+  label: 相忘
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-122
+    span:
+    - body
+    - 3955
+    - 3955
+  label: 獨照
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-123
+    span:
+    - body
+    - 3985
+    - 3985
+  label: 雙泯
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-124
+    span:
+    - body
+    - 4018
+    - 4018
+  label: 𨍏轢居士初和
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-125
+    span:
+    - body
+    - 4030
+    - 4030
+  label: 未牧
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-126
+    span:
+    - body
+    - 4060
+    - 4060
+  label: 初調
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-127
+    span:
+    - body
+    - 4090
+    - 4090
+  label: 受制
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-128
+    span:
+    - body
+    - 4120
+    - 4120
+  label: 迴首
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-129
+    span:
+    - body
+    - 4150
+    - 4150
+  label: 馴伏
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-130
+    span:
+    - body
+    - 4180
+    - 4180
+  label: 無礙
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-131
+    span:
+    - body
+    - 4210
+    - 4210
+  label: 任運
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-132
+    span:
+    - body
+    - 4240
+    - 4240
+  label: 相忘
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-133
+    span:
+    - body
+    - 4270
+    - 4270
+  label: 獨照
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-134
+    span:
+    - body
+    - 4300
+    - 4300
+  label: 雙泯
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-135
+    span:
+    - body
+    - 4333
+    - 4333
+  label: 𨍏轢居士再和
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-136
+    span:
+    - body
+    - 4343
+    - 4343
+  label: 未牧
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-137
+    span:
+    - body
+    - 4373
+    - 4373
+  label: 初調
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-138
+    span:
+    - body
+    - 4403
+    - 4403
+  label: 受制
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-139
+    span:
+    - body
+    - 4433
+    - 4433
+  label: 迴首
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-140
+    span:
+    - body
+    - 4463
+    - 4463
+  label: 馴伏
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-141
+    span:
+    - body
+    - 4493
+    - 4493
+  label: 無礙
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-142
+    span:
+    - body
+    - 4523
+    - 4523
+  label: 任運
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-143
+    span:
+    - body
+    - 4553
+    - 4553
+  label: 相忘
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-144
+    span:
+    - body
+    - 4583
+    - 4583
+  label: 獨照
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-145
+    span:
+    - body
+    - 4613
+    - 4613
+  label: 雙泯
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-146
+    span:
+    - body
+    - 4647
+    - 4647
+  label: 𨍏轢居士三和
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-147
+    span:
+    - body
+    - 4657
+    - 4657
+  label: 未牧
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-148
+    span:
+    - body
+    - 4687
+    - 4687
+  label: 初調
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-149
+    span:
+    - body
+    - 4717
+    - 4717
+  label: 受制
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-150
+    span:
+    - body
+    - 4747
+    - 4747
+  label: 迴首
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-151
+    span:
+    - body
+    - 4777
+    - 4777
+  label: 馴伏
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-152
+    span:
+    - body
+    - 4807
+    - 4807
+  label: 無礙
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-153
+    span:
+    - body
+    - 4837
+    - 4837
+  label: 任運
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-154
+    span:
+    - body
+    - 4867
+    - 4867
+  label: 相忘
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-155
+    span:
+    - body
+    - 4892
+    - 4892
+  label: 獨照
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-156
+    span:
+    - body
+    - 4922
+    - 4922
+  label: 雙泯
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-157
+    span:
+    - body
+    - 4956
+    - 4956
+  label: 跛道人如念
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-158
+    span:
+    - body
+    - 5055
+    - 5055
+  label: 未牧
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-159
+    span:
+    - body
+    - 5085
+    - 5085
+  label: 初調
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-160
+    span:
+    - body
+    - 5115
+    - 5115
+  label: 受制
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-161
+    span:
+    - body
+    - 5145
+    - 5145
+  label: 回首
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-162
+    span:
+    - body
+    - 5175
+    - 5175
+  label: 馴伏
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-163
+    span:
+    - body
+    - 5205
+    - 5205
+  label: 無礙
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-164
+    span:
+    - body
+    - 5235
+    - 5235
+  label: 任運
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-165
+    span:
+    - body
+    - 5265
+    - 5265
+  label: 相忘
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-166
+    span:
+    - body
+    - 5295
+    - 5295
+  label: 獨照
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-167
+    span:
+    - body
+    - 5325
+    - 5325
+  label: 雙泯
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-168
+    span:
+    - body
+    - 5355
+    - 5355
+  label: 無依道人
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-169
+    span:
+    - body
+    - 5371
+    - 5371
+  label: 未牧
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-170
+    span:
+    - body
+    - 5401
+    - 5401
+  label: 初調
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-171
+    span:
+    - body
+    - 5431
+    - 5431
+  label: 受制
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-172
+    span:
+    - body
+    - 5461
+    - 5461
+  label: 回首
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-173
+    span:
+    - body
+    - 5491
+    - 5491
+  label: 馴伏
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-174
+    span:
+    - body
+    - 5521
+    - 5521
+  label: 無礙
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-175
+    span:
+    - body
+    - 5551
+    - 5551
+  label: 任運
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-176
+    span:
+    - body
+    - 5581
+    - 5581
+  label: 相忘
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-177
+    span:
+    - body
+    - 5611
+    - 5611
+  label: 獨照
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-178
+    span:
+    - body
+    - 5641
+    - 5641
+  label: 雙泯
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-179
+    span:
+    - body
+    - 5676
+    - 5676
+  label: 牧公道人項真本
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-180
+    span:
+    - body
+    - 5688
+    - 5688
+  label: 未牧
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-181
+    span:
+    - body
+    - 5718
+    - 5718
+  label: 初調
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-182
+    span:
+    - body
+    - 5748
+    - 5748
+  label: 受制
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-183
+    span:
+    - body
+    - 5778
+    - 5778
+  label: 回首
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-184
+    span:
+    - body
+    - 5808
+    - 5808
+  label: 馴伏
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-185
+    span:
+    - body
+    - 5838
+    - 5838
+  label: 無礙
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-186
+    span:
+    - body
+    - 5868
+    - 5868
+  label: 任運
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-187
+    span:
+    - body
+    - 5898
+    - 5898
+  label: 相忘
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-188
+    span:
+    - body
+    - 5928
+    - 5928
+  label: 獨照
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0163_J_001-mulu-189
+    span:
+    - body
+    - 5958
+    - 5958
+  label: 雙泯
+  type: mulu
+  level: 1
+hash: sha256:5dba91586c4e6b1cba28f64aa87abb3cca8a839da2f444453067422227fe6006
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
