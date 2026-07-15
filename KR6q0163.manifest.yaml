@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6q0163/v1
 canonical_location: https://kanripo.org/bkk/KR6q0163/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 普明禪師牧牛圖頌
   identifiers:
@@ -21,9 +21,9 @@ editions:
 - short: J
 assets:
   parts:
-  - {seq: 1, filename: KR6q0163_001.yaml, hash: 'sha256:80e02cd2b19b239cd016c8916271f3d171c7140c3a9016b5440845c3dbc5e5eb'}
+  - {seq: 1, filename: KR6q0163_001.yaml, hash: 'sha256:53857f2b0d4f71050affc7939c3a889c543b057813dd746efdbe9de2979804d0'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6q0163_001.markers.yaml, hash: 'sha256:9189fcd1d13c49c6cd6fee410cfa1803dda90c38d1b638143e153ad8ba919cb3'}
+  - {seq: 1, role: markers, filename: assets/KR6q0163_001.markers.yaml, hash: 'sha256:eefd481ca9be1f0b22cb22e21eaee6071bf14335d49d423a300050f151329fd8'}
 table_of_contents:
 - ref:
     seq: 1
@@ -1925,4 +1925,7 @@ table_of_contents:
   label: 雙泯
   type: mulu
   level: 1
-hash: sha256:a22ba6753165d868730020e1d91ab3b7d2ad4e20cd3d160f588d9ae28dde88c0
+hash: sha256:573d2f0f0943174dda8e3cc67fcc2665a366fb06d061e5bb9f4078a2d84986e5
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
